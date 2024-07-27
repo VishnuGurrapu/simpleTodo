@@ -1,0 +1,29 @@
+/* Write your CSS here */
+.bgContainer {
+  background-color: #ffc2a0;
+  padding: 30px;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.ListsContainer {
+  background-color: #ffffff;
+  border-radius: 20px;
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.Heading {
+  font-size: 30px;
+  color: #ff8542;
+  padding: 15px;
+}
+.list-container {
+  list-style-type: none;
+  display: flex;
+  flex-direction: column;
+}
